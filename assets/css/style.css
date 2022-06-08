@@ -4,6 +4,7 @@
     margin: 0;
 }
 
+/*general & header elements styling*/
 body {
     background-color: #d9dcd6;
 }
@@ -74,6 +75,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
+/*end general & header elements styling*/
 
 .benefits {
     margin-right: 20px;
@@ -104,8 +106,11 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+/*end benefits styling*/
 
-.search-engine-optimization {
+/*content section styling*/
+/*changed the individual class tags for the three content sections to one similar tag, styling can now be consolidated*/
+.content-bios {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -114,51 +119,17 @@ p {
     color: #ffffff;
 }
 
-.online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.search-engine-optimization img {
+.content-bios img {
     max-height: 200px;
 }
 
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-.social-media-marketing img {
-    max-height: 200px;
-}
-
-.search-engine-optimization h2 {
+.content-bios h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/*end content styling*/
 
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
+/*footer styling*/
 .footer {
     padding: 30px;
     clear: both;
