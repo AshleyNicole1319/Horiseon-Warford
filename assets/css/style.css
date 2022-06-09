@@ -88,20 +88,20 @@ p {
     background-color: #2589bd;
 }
 
-/*benefit- consolidated for conciseness*/
-.benefit-lead, .benefit-brand, .benefit-cost {
+/*benefit- consolidated for conciseness*/ 
+.indiv-benefits {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-/*benefit- h3s consolidated for conciseness*/
-.benefit-lead h3, .benefit-brand h3, .benefit-cost h3 {
+/*benefit- h3s consolidated for conciseness*/ 
+.indiv-benefits h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-/*benefit- imgs consolidated for conciseness*/
-.benefit-lead img, .benefit-brand img, .benefit-cost img {
+/*benefit- imgs consolidated for conciseness*/ 
+.indiv-benefits img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
