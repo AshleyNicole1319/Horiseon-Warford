@@ -19,7 +19,7 @@ The intitial Horiseon code was presented to me, but has been edited for more cla
 https://ashleynicole1319.github.io/Horiseon-Warford/
 
 ## Screen Capture of Horiseon Webpage
-<img src="./assets/images/HoriseonMockUp.png" width="400" height="300">
+<img src="./assets/images/HoriseonMockUp.png" width="800" height="650">
 
 ## Contribution
 Edited by Ashley Warford
