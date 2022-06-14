@@ -13,11 +13,12 @@ The intitial Horiseon code was presented to me, but has been edited for more cla
 
 ## Screen Capture of Horiseon Webpage
 
+
 ## Built With
 * HTML
 * CSS
 
-## Website
+## Website URL
 https://ashleynicole1319.github.io/Horiseon-Warford/
 
 ## Contribution
