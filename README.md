@@ -11,15 +11,16 @@ The intitial Horiseon code was presented to me, but has been edited for more cla
 - Style sheet consolidated to reflect changes in index.html 
 - Comments made on style sheet and index.html for clear understanding of changes made
 
-## Screen Capture of Horiseon Webpage
-
-
 ## Built With
 * HTML
 * CSS
 
 ## Website URL
 https://ashleynicole1319.github.io/Horiseon-Warford/
+
+## Screen Capture of Horiseon Webpage
+![./assets/images/ScreenShotPage1]
+![./assets/images/ScreenShotPage2]
 
 ## Contribution
 Edited by Ashley Warford
